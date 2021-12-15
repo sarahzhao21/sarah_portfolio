@@ -1,5 +1,5 @@
 # Sarah's Portfolio
-Sarah portfolio
+
 
 ## Project1: Information retrieval by SQL and data visualization by Tableau.
 Since the pandemic of COVID-19 in early 2019, people's lives were dramatically changed. The aim of this study is to figure out the most recent situations of death rate, infected rate and vaccination rate of all the countries in the world by SQL and to create easy to read visualizations on that by Tableau.
@@ -7,7 +7,8 @@ Since the pandemic of COVID-19 in early 2019, people's lives were dramatically c
 ![2021 COVID-19 Would Situation Dashboard](https://github.com/sarahzhao21/COVID-19-study-by-SQL-and-visualization-by-Tableau/blob/7fca289b8a60db0714d48cd2ca5bb14e80193d0e/COVID%20visualization%202021.png)
 
 ## Project2: Data Cleaning by postgreSQL.
-Although some of the Python packages(pandas, numpy) is very powerful for data cleaning, SQL is also very useful and convinient for data cleaning. In this project, I will use postgreSQL to do the data organization, management and cleaning.  
+Although some of the Python packages(pandas, numpy) is very powerful for data cleaning, SQL is also very useful and convinient for data cleaning. In this project, I will use postgreSQL to do the data organization, management and cleaning.   
+[The codes and explainations are recorded here](https://github.com/sarahzhao21/data_organization_cleaning_by_SQL.git).  
 The processes of data cleaning that have been used in this project include:  
 1.Add new columns to a table and update those columns.   
 2.Delete useless columns from a table.   
