@@ -20,7 +20,7 @@ The processes of data cleaning that have been used in this project include:
 
 ## Project3: A Network Based Music Recommendation System.
 In this era of the Internet, popular music has also been greatly developed, with more and more ordinary musicians publishing their works on the Internet platform, and new popular musics born almost every day; besides, the taste of the audience is no longer limited to their favorite singers. Based on this background, we want to set up a music recommendation system based on the song network to help the audience to find more music that suits their taste.
-[Please click this for more details and codes.](https://github.com/sarahzhao21/A-Recommendation-System-Based-on-Network.git)
+[Please click here for more details and codes.](https://github.com/sarahzhao21/A-Recommendation-System-Based-on-Network.git)
 ![The network graph based on users history of a music website](https://github.com/sarahzhao21/A-Recommendation-System-Based-on-Network/blob/b5cfd422d5d336eca932ee38dec3c2172c4123fb/images/Recommendation%20graph.png)
 
 
@@ -38,14 +38,17 @@ Lake monitoring provides important information for environment protection and po
 Predicting/estimating the temperature of Trout Lake at depth 10.5 m during Apr 20th, 2018 - Apr 19th, 2019. 
 Benchmark 1:  MSE < 0.065
 Benchmark 2:  MSE < 0.032.
-[Please click this for more details and codes.](https://github.com/sarahzhao21/SI670_Kaggle_Competetion_Temperature_Prediction.git)
+[Please click here for more details and codes.](https://github.com/sarahzhao21/SI670_Kaggle_Competetion_Temperature_Prediction.git)
 
 ## Project5: Sentiment Analysis and Prediction by User Reviews with NLP Deep Learning Models.
 For this project, we would like to explore the relationship between yelp user reviews and yelp user ratings of restaurants. User rating is a good indicator of user attitudes towards local business. Inspired by the novel approaches that integrate NLP with deep learning, this project aims to train an algorithm that predicts the classes of user ratings with user reviews. This algorithm could be used to detect the user attitudes to restaurants from other crowdsourcing narratives (e.g. Tweets about restaurants) and can potentially expand the rating system of local restaurants.
-[Please click this for more details and codes.](https://github.com/sarahzhao21/SI-670-Maching-Learning-Project.git)
+[Please click here for more details and codes.](https://github.com/sarahzhao21/SI-670-Maching-Learning-Project.git)
 ![Classify Yelp Users Rating by User Reviews.](https://user-images.githubusercontent.com/54957469/119426199-c50e3d00-bcd6-11eb-9fce-ac7690411a9a.jpg)
 
 ## Project6: Discover Patients’ Health Care Demand -- Drug Review Analysis by Natural Language Processing.
-Since the COVID-19 pandemic in 2019, disease prevention and health improvement play more and more important roles in people’s life. With the rapid development of the pharmaceutical industry, large numbers of new medications have been developed and launched to market. Although the medication products were approved by FDA, it doesn’t mean the products are effective for each patient. Thus, it becomes very critical to understand the performance and related features of the drugs on users. Recent years, text and natural language analysis captures more attention as it can explore deeper information and bring more insight into the quantitative methodology, so it can be used to analyze users’ demand.
-This kind of study will be helpful for the pharmaceutical industry to better understand consumers’ demand and health needs, as well as patients’ responses for corresponding medications. The marketing managers or business leads will also care about these studies because understanding consumers’ needs, or intentions will be helpful for the marketing forecast. 
-[Please click this for more details.](https://xinyiz-13686.medium.com/discover-customers-health-care-demand-drug-review-analysis-by-natural-language-processing-8aaa5c9f2e57)
+Since the COVID-19 pandemic in 2019, disease prevention and health improvement play more and more important roles in people’s life. With the rapid development of the pharmaceutical industry, large numbers of new medications have been developed and launched to market. Although the medication products were approved by FDA, it doesn’t mean the products are effective for each patient. Thus, it becomes very critical to understand the performance and related features of the drugs on users. Recent years, text and natural language analysis captures more attention as it can explore deeper information and bring more insight into the quantitative methodology, so it can be used to analyze users’ demand. 
+![Top Bigrams of "Effective"](https://github.com/sarahzhao21/Discover-Patients-Health-Care-Demand----Drug-Review-Analysis-by-NLP/blob/a27d0443e6971095da414d41a79c3715d25b7222/top_effect_bigram5.png).   
+ 
+This kind of study will be helpful for the pharmaceutical industry to better understand consumers’ demand and health needs, as well as patients’ responses for corresponding medications. The marketing managers or business leads will also care about these studies because understanding consumers’ needs, or intentions will be helpful for the marketing forecast.   
+[Please click here for more details and codes](https://github.com/sarahzhao21/Discover-Patients-Health-Care-Demand----Drug-Review-Analysis-by-NLP.git).  
+[The summary is in my blog](https://xinyiz-13686.medium.com/discover-customers-health-care-demand-drug-review-analysis-by-natural-language-processing-8aaa5c9f2e57)
